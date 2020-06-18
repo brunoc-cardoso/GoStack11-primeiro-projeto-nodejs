@@ -1,4 +1,9 @@
 node_modules/
+.idea/
+.vscode/
 yarn.lock
 dist/
+build/
 yarn-error.log
+tmp/*
+!tmp/.gitkeep
